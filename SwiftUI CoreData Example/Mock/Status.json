@@ -1,0 +1,284 @@
+{
+      "vehicleId" : "B549753BB3014D2D9386D46D86487EC7",
+      "operationId" : "4da6f9e1545e062a47731551857b55cf",
+      "status" : {
+        "tcuPeriodicConnections" : {
+          "updated" : "2023-06-16T11:06:26.295+00:00",
+          "periodicSmsOnly" : {
+            "startTime" : "2023-07-08T11:05:52+00:00",
+            "wakeUpPeriodicityHours" : 1,
+            "wakeUpMinute" : 5,
+            "awakeDurationMinutes" : 3
+          }
+        },
+        "brakeFluidLevelCl" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : 0
+        },
+        "temperatureExternal" : {
+          "updated" : "2023-06-06T12:22:29.195+00:00",
+          "celsius" : 10
+        },
+        "exteriorLights" : {
+          "parkingLightFrontLeft" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "OFF"
+            }
+          },
+          "parkingLightFrontRight" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "OFF"
+            }
+          }
+        },
+        "liquidVehicle" : {
+          "fuelLevelPercentage" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "value" : 30
+          },
+          "distanceToEmpty" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "meter" : 666000
+          }
+        },
+        "theftAlarm" : {
+          "updated" : "2023-06-06T12:22:29.195+00:00",
+          "value" : "ALARM_OFF"
+        },
+        "isIgnitionKeyIn" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "UNKNOWN"
+        },
+        "isParkingBrakeEngaged" : {
+          "updated" : "2023-06-06T12:22:29.195+00:00",
+          "value" : "TRUE"
+        },
+        "batteryInfo" : {
+          "chargeValuePercent" : {
+            "updated" : "2023-05-15T10:56:40.243+00:00",
+            "value" : 8
+          }
+        },
+        "driveMode" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "custom-10"
+        },
+        "isMoving" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "UNKNOWN"
+        },
+        "vehicleMode" : {
+          "transportMode" : {
+            "updated" : "2023-05-15T10:56:40.243+00:00",
+            "value" : "UNKNOWN"
+          },
+          "privacyMode" : {
+            "updated" : "2023-06-20T09:49:15.452+00:00",
+            "value" : "NONE"
+          },
+          "custodianMode" : {
+            "updated" : "2023-05-15T10:56:40.243+00:00",
+            "value" : "UNKNOWN"
+          }
+        },
+        "tcuConnections" : {
+          "smsOnly" : {
+            "startTime" : "2023-06-16T11:05:52+00:00"
+          },
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "connected" : {
+            "startTime" : "2023-06-20T09:49:15+00:00"
+          },
+          "offLine" : {
+            "startTime" : "2023-08-15T11:05:52+00:00"
+          }
+        },
+        "tires" : {
+          "frontLeft" : {
+            "pressure" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "pascal" : 200000
+            }
+          },
+          "frontRight" : {
+            "pressure" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "pascal" : 250000
+            }
+          },
+          "rearLeft" : {
+            "pressure" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "pascal" : 300000
+            }
+          },
+          "rearRight" : {
+            "pressure" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "pascal" : 350000
+            }
+          }
+        },
+        "warnings" : {
+          "oilLevel" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "value" : "NORMAL"
+          },
+          "brakeFluidLevel" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "value" : "NORMAL"
+          },
+          "washerFluid" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "value" : "NORMAL"
+          },
+          "engineCoolantLevel" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "value" : "NORMAL"
+          }
+        },
+        "isEngineOn" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "UNKNOWN"
+        },
+        "doors" : {
+          "row2Left" : {
+            "status" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "hood" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "CLOSED"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "trunk" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "OPEN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "chargingPortDoor" : {
+            "status" : {
+              "updated" : "2023-05-15T10:56:40.243+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-05-15T10:56:40.243+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "row1Right" : {
+            "status" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "row1Left" : {
+            "status" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "fuelDoor" : {
+            "status" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            }
+          },
+          "row2Right" : {
+            "status" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            },
+            "lockStatus" : {
+              "updated" : "2023-06-20T09:49:15.452+00:00",
+              "value" : "UNKNOWN"
+            }
+          }
+        },
+        "isIgnitionOn" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "UNKNOWN"
+        },
+        "windows" : {
+          "cab" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "CLOSED"
+            }
+          },
+          "row1Left" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "INTERMEDIATE"
+            }
+          },
+          "row1Right" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "OPEN"
+            }
+          },
+          "row2Right" : {
+            "status" : {
+              "updated" : "2023-05-15T10:56:40.243+00:00",
+              "value" : "CLOSED"
+            }
+          },
+          "sunRoof" : {
+            "status" : {
+              "updated" : "2023-06-06T12:22:29.195+00:00",
+              "value" : "CLOSED"
+            }
+          },
+          "row2Left" : {
+            "status" : {
+              "updated" : "2023-05-15T10:56:40.243+00:00",
+              "value" : "CLOSED"
+            }
+          }
+        },
+        "odometer" : {
+          "distance" : {
+            "updated" : "2023-06-06T12:22:29.195+00:00",
+            "meter" : 4242000
+          }
+        },
+        "ignitionOffTime" : {
+          "updated" : "2023-06-20T09:49:15.452+00:00",
+          "value" : "2023-06-06T14:34:30+00:00"
+        }
+      },
+      "lastUpdated" : "2023-06-20T09:49:15.452+00:00",
+      "sleepMode" : "Nominal",
+      "activeMode" : false
+    }

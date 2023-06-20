@@ -1,0 +1,6 @@
+module Pods_SwiftUI_CoreData_Example_SwiftUI_CoreData_ExampleUITests {
+  umbrella header "Pods-SwiftUI CoreData Example-SwiftUI CoreData ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
